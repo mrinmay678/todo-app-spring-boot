@@ -8,6 +8,6 @@ public class TodoController {
     
     @RequestMapping("/")
     public String getTodos() {
-        return "Hello World";
+        return "Hello World Check Hotreload 4";
     }
 }
